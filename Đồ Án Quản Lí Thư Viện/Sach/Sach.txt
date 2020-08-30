@@ -1,0 +1,29 @@
+0	Tuoi Tho Du Doi	VH121	20000	Nam Cao	Van hoc
+6	Chi Pheo	VH122	10000	Nam Cao	Van hoc
+0	Tu Truyen	VH123	30000	Nam Cao	Van hoc
+2	Tat Den	VH124	20000	Ngo Tat To	Van hoc
+0	So Do	VH125	40000	Ngo Tat To	Van hoc
+3	Vuot Con Dao	TR126	15000	Ngo Tat To	Tre
+0	Giao Thua	TR127	20000	Ban Nguyen	Tre
+0	Giao Com	TR128	20000	Ban Nguyen	Tre
+8	Giao Tra Sua	TR129	20000	Ban Nguyen	Tre
+0	Giao Tranh	TR130	20000	Ban Nguyen	Tre
+1	Doraemon	JP101	15000	Fujiko-Fujio	Kim Dong
+2	Doraemon	JP102	15000	Fujiko-Fujio	Kim Dong
+1	Doraemon	JP103	15000	Fujiko-Fujio	Kim Dong
+2	Doraemon	JP104	15000	Fujiko-Fujio	Kim Dong
+10	Doraemon	JP105	15000	Fujiko-Fujio	Kim Dong
+0	Conan	CN101	30000	Aoyama Goso	Funimation
+6	Conan	CN102	30000	Aoyama Goso	Funimation
+0	Conan	CN103	30000	Aoyama Goso	Funimation
+0	Conan	CN104	30000	Aoyama Goso	Funimation
+5	Conan	CN105	30000	Aoyama Goso	Funimation
+0	Shin	SH101	100000	Yoshito Usui	Bandt
+5	Shin	SH102	100000	Yoshito Usui	Bandt
+6	Shin	SH103	100000	Yoshito Usui	Bandt
+2	Shin	SH104	100000	Yoshito Usui	Bandt
+0	Shin	SH105	100000	Yoshito Usui	Bandt
+0	Shin	SH106	100000	Yoshito Usui	Bandt
+8	Shin	SH107	100000	Yoshito Usui	Bandt
+0	Shin	SH108	100000	Yoshito Usui	Bandt
+3	Shin	SH108	100000	Yoshito Usui	Bandt
